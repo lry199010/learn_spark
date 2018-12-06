@@ -1,2 +1,2 @@
 # learn_spark
-first leanr spark
+please follow me first learning spark
